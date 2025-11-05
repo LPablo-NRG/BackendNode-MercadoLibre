@@ -1,0 +1,90 @@
+Fri Oct 31 2025 12:07:38 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Fri Oct 31 2025 12:08:26 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Fri Oct 31 2025 12:10:19 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun Nov 02 2025 14:02:20 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun Nov 02 2025 14:11:42 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun Nov 02 2025 14:13:07 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun Nov 02 2025 14:16:02 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun Nov 02 2025 14:16:20 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun Nov 02 2025 14:17:02 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun Nov 02 2025 14:19:38 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun Nov 02 2025 14:19:48 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun Nov 02 2025 14:48:18 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun Nov 02 2025 14:48:39 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun Nov 02 2025 15:16:38 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - Anónimo - Cannot access 'decodedToken' before initialization
+Sun Nov 02 2025 15:18:20 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - Anónimo - Cannot access 'decodedToken' before initialization
+Sun Nov 02 2025 19:35:07 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 11:12:28 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 11:13:52 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - Anónimo - Cannot access 'decodedToken' before initialization
+Wed Nov 05 2025 11:31:51 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 11:31:55 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 11:31:59 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 11:32:03 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 11:32:08 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 11:49:37 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 11:53:01 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 12:04:09 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 12:04:39 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 12:05:01 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 12:18:04 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 12:22:55 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 12:23:10 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 12:23:20 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 12:23:28 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 12:26:13 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 12:26:27 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 12:26:39 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - jwt malformed
+Wed Nov 05 2025 12:26:59 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - jwt malformed
+Wed Nov 05 2025 12:27:20 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - jwt malformed
+Wed Nov 05 2025 12:27:23 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - jwt malformed
+Wed Nov 05 2025 12:47:35 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - Acceso denegado
+Wed Nov 05 2025 12:47:43 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo - Acceso denegado
+Wed Nov 05 2025 12:47:50 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 12:49:13 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - jwt malformed
+Wed Nov 05 2025 12:53:46 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 12:54:02 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 12:58:10 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - invalid token
+Wed Nov 05 2025 13:03:44 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - jwt malformed
+Wed Nov 05 2025 13:04:01 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 13:05:05 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - jwt malformed
+Wed Nov 05 2025 13:05:36 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - Cannot set headers after they are sent to the client
+Wed Nov 05 2025 13:17:10 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
+Wed Nov 05 2025 13:54:00 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
+Wed Nov 05 2025 14:03:32 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - Acceso denegado
+Wed Nov 05 2025 14:12:14 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 14:13:16 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - Acceso denegado
+Wed Nov 05 2025 14:13:27 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 14:13:42 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 14:13:48 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 14:14:48 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - Acceso denegado
+Wed Nov 05 2025 14:14:59 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - Acceso denegado
+Wed Nov 05 2025 14:15:01 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - Acceso denegado
+Wed Nov 05 2025 14:15:11 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - Acceso denegado
+Wed Nov 05 2025 14:15:13 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - Acceso denegado
+Wed Nov 05 2025 14:15:16 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - Acceso denegado
+Wed Nov 05 2025 14:15:18 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - Acceso denegado
+Wed Nov 05 2025 14:16:51 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - {"errors":[{"type":"field","msg":"El campo {0} es obligatorio","path":"nombre","location":"body"}]}
+Wed Nov 05 2025 14:28:43 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - errores is not defined
+Wed Nov 05 2025 14:30:41 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - errores is not defined
+Wed Nov 05 2025 14:31:38 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - errores is not defined
+Wed Nov 05 2025 14:32:41 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - errores is not defined
+Wed Nov 05 2025 14:34:45 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - errores is not defined
+Wed Nov 05 2025 14:36:13 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
+Wed Nov 05 2025 14:36:49 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - Cannot add or update a child row: a foreign key constraint fails (`mercadolibrenode`.`producto`, CONSTRAINT `producto_ibfk_1` FOREIGN KEY (`archivoid`) REFERENCES `archivo` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)
+Wed Nov 05 2025 14:36:57 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - Cannot add or update a child row: a foreign key constraint fails (`mercadolibrenode`.`producto`, CONSTRAINT `producto_ibfk_1` FOREIGN KEY (`archivoid`) REFERENCES `archivo` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)
+Wed Nov 05 2025 14:38:11 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - {"errors":[{"type":"field","msg":"El campo {0} es obligatorio","path":"titulo","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"descripcion","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"}]}
+Wed Nov 05 2025 14:38:26 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - {"errors":[{"type":"field","msg":"El campo {0} es obligatorio","path":"titulo","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"descripcion","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"}]}
+Wed Nov 05 2025 14:38:36 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - {"errors":[{"type":"field","msg":"El campo {0} es obligatorio","path":"titulo","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"descripcion","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"}]}
+Wed Nov 05 2025 14:38:57 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - {"errors":[{"type":"field","msg":"El campo {0} es obligatorio","path":"titulo","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"descripcion","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"}]}
+Wed Nov 05 2025 14:39:13 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - {"errors":[{"type":"field","msg":"El campo {0} es obligatorio","path":"titulo","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"descripcion","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"}]}
+Wed Nov 05 2025 14:39:51 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - {"errors":[{"type":"field","msg":"El campo {0} es obligatorio","path":"titulo","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"descripcion","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"}]}
+Wed Nov 05 2025 14:39:53 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - {"errors":[{"type":"field","msg":"El campo {0} es obligatorio","path":"titulo","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"descripcion","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"}]}
+Wed Nov 05 2025 14:40:43 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - {"errors":[{"type":"field","msg":"El campo {0} es obligatorio","path":"titulo","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"descripcion","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"}]}
+Wed Nov 05 2025 14:41:07 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - {"errors":[{"type":"field","msg":"El campo {0} es obligatorio","path":"titulo","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"descripcion","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"}]}
+Wed Nov 05 2025 14:41:14 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - {"errors":[{"type":"field","msg":"El campo {0} es obligatorio","path":"titulo","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"descripcion","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"}]}
+Wed Nov 05 2025 14:42:00 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - {"errors":[{"type":"field","msg":"El campo {0} es obligatorio","path":"titulo","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"descripcion","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"}]}
+Wed Nov 05 2025 14:42:05 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - {"errors":[{"type":"field","msg":"El campo {0} es obligatorio","path":"titulo","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"descripcion","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"}]}
+Wed Nov 05 2025 14:42:19 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - {"errors":[{"type":"field","msg":"El campo {0} es obligatorio","path":"titulo","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"descripcion","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"}]}
+Wed Nov 05 2025 14:49:13 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - {"errors":[{"type":"field","msg":"El campo {0} es obligatorio","path":"titulo","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"descripcion","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"}]}
+Wed Nov 05 2025 14:49:29 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - {"errors":[{"type":"field","msg":"El campo {0} es obligatorio","path":"titulo","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"descripcion","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"}]}
+Wed Nov 05 2025 15:18:32 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
