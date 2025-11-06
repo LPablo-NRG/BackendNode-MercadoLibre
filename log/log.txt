@@ -88,3 +88,14 @@ Wed Nov 05 2025 14:42:19 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0
 Wed Nov 05 2025 14:49:13 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - {"errors":[{"type":"field","msg":"El campo {0} es obligatorio","path":"titulo","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"descripcion","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"}]}
 Wed Nov 05 2025 14:49:29 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - {"errors":[{"type":"field","msg":"El campo {0} es obligatorio","path":"titulo","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"descripcion","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"},{"type":"field","msg":"El campo {0} es obligatorio","path":"precio","location":"body"}]}
 Wed Nov 05 2025 15:18:32 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
+Wed Nov 05 2025 16:30:21 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - jwt malformed
+Wed Nov 05 2025 16:30:30 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 16:32:29 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - WHERE parameter "nombre" has invalid "undefined" value
+Wed Nov 05 2025 16:38:46 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - WHERE parameter "nombre" has invalid "undefined" value
+Wed Nov 05 2025 16:39:00 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - WHERE parameter "nombre" has invalid "undefined" value
+Wed Nov 05 2025 18:05:56 GMT-0600 (hora estándar central)- 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
+Wed Nov 05 2025 18:07:51 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - Cannot read properties of null (reading 'id')
+Wed Nov 05 2025 18:13:01 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Wed Nov 05 2025 18:16:29 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - Cannot read properties of undefined (reading 'rol')
+Wed Nov 05 2025 18:16:54 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - Cannot read properties of undefined (reading 'rol')
+Wed Nov 05 2025 18:17:00 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - Cannot read properties of undefined (reading 'rol')

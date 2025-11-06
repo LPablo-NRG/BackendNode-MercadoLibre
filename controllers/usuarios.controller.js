@@ -44,7 +44,7 @@ self.create = async function (req, res, next) {
         const data = await usuario.create ({
             id: crypto.randomUUID(),
             email: req.body.email,
-            passowrdhash: await bcrypt.hash(req.body.password, 10),
+            passwordhash: await bcrypt.hash(req.body.password, 10),
             nombre: req.body.nombre,
             rolid: rolusuario.id
         })
