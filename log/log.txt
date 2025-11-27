@@ -99,3 +99,7 @@ Wed Nov 05 2025 18:13:01 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo
 Wed Nov 05 2025 18:16:29 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - Cannot read properties of undefined (reading 'rol')
 Wed Nov 05 2025 18:16:54 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - Cannot read properties of undefined (reading 'rol')
 Wed Nov 05 2025 18:17:00 GMT-0600 (hora estándar central)- 500 - ::ffff:127.0.0.1 - gvera@uv.mx - Cannot read properties of undefined (reading 'rol')
+Thu Nov 27 2025 11:45:57 GMT-0600 (Central Standard Time)- 500 - ::1 - Anónimo - Access denied for user 'mercadolibre_user'@'localhost' (using password: YES)
+Thu Nov 27 2025 12:00:45 GMT-0600 (Central Standard Time)- 500 - ::1 - Anónimo - Table 'mercadolibrenode.rol' doesn't exist
+Thu Nov 27 2025 12:15:17 GMT-0600 (Central Standard Time)- 500 - ::1 - Anónimo - Cannot read properties of null (reading 'id')
+Thu Nov 27 2025 12:25:02 GMT-0600 (Central Standard Time)- 500 - ::1 - Anónimo - Cannot read properties of null (reading 'id')

@@ -2,6 +2,9 @@ const router = require('express').Router()
 const usuarios = require('../controllers/usuarios.controller')
 const Authorize = require('../middlewares/auth.middleware')
 
+//POST: api/usuarios/registro
+router.post('/registro', usuarios.create)
+
 //GET api/usuarios
 router.get('/', Authorize('Administrador'), usuarios.getAll)
 

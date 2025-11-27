@@ -39,6 +39,7 @@ self.get = async function (req, res, next) {
 //POST api/usuarios
 self.create = async function (req, res, next) {
     try {
+        console.log("===ROL:" + req.body.rol + " ===");
         const rolusuario = await rol.findOne({ where: {nombre: req.body.rol}})
 
         const data = await usuario.create ({
