@@ -8,7 +8,7 @@ self.getAll = async function (req, res, next) {
         attributes: [['id', 'bitacoraId'], 'accion', 'elementoid', 'ip', 'usuario', 'fecha'],
         order: [['id', 'DESC']],
     })
-    res.status(200),json(data)
+    res.status(200).json(data)
 }
 
 module.exports = self

@@ -103,3 +103,18 @@ Thu Nov 27 2025 11:45:57 GMT-0600 (Central Standard Time)- 500 - ::1 - Anónimo 
 Thu Nov 27 2025 12:00:45 GMT-0600 (Central Standard Time)- 500 - ::1 - Anónimo - Table 'mercadolibrenode.rol' doesn't exist
 Thu Nov 27 2025 12:15:17 GMT-0600 (Central Standard Time)- 500 - ::1 - Anónimo - Cannot read properties of null (reading 'id')
 Thu Nov 27 2025 12:25:02 GMT-0600 (Central Standard Time)- 500 - ::1 - Anónimo - Cannot read properties of null (reading 'id')
+Mon Dec 01 2025 00:51:47 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo - jwt expired
+Mon Dec 01 2025 01:27:36 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo - jwt expired
+Mon Dec 01 2025 01:36:19 GMT-0600 (hora estándar central)- 500 - ::1 - gvera@uv.mx - json is not defined
+Mon Dec 01 2025 01:43:18 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - ENOENT: no such file or directory, open 'C:\codigo\ps\BackendNode-MercadoLibre\uploads\1764574997978-Televisor Oled Smart Tv LG 42'' 4k (1).jpg'
+Mon Dec 01 2025 01:44:25 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - ENOENT: no such file or directory, open 'C:\codigo\ps\BackendNode-MercadoLibre\uploads\1764575065767-Televisor Oled Smart Tv LG 42'' 4k (1).jpg'
+Mon Dec 01 2025 01:57:51 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - ENOENT: no such file or directory, open 'C:\codigo\ps\BackendNode-MercadoLibre\uploads\1764575871282-Televisor Oled Smart Tv LG 42'' 4k (1).jpg'
+Mon Dec 01 2025 02:01:28 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - ENOENT: no such file or directory, open 'C:\codigo\ps\BackendNode-MercadoLibre\uploads\1764576088361-Televisor Oled Smart Tv LG 42'' 4k (1).jpg'
+Mon Dec 01 2025 02:01:39 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo - jwt expired
+Mon Dec 01 2025 02:02:11 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - ENOENT: no such file or directory, open 'C:\codigo\ps\BackendNode-MercadoLibre\uploads\1764576131630-Televisor Oled Smart Tv LG 42'' 4k (1).jpg'
+Mon Dec 01 2025 02:02:35 GMT-0600 (hora estándar central)- 500 - ::1 - gvera@uv.mx - json is not defined
+Mon Dec 01 2025 02:22:25 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo - jwt expired
+Mon Dec 01 2025 02:34:10 GMT-0600 (hora estándar central)- 500 - ::1 - gvera@uv.mx - json is not defined
+Mon Dec 01 2025 02:36:52 GMT-0600 (hora estándar central)- 500 - ::1 - gvera@uv.mx - json is not defined
+Mon Dec 01 2025 02:47:43 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo - jwt expired
+Mon Dec 01 2025 02:48:11 GMT-0600 (hora estándar central)- 500 - ::1 - gvera@uv.mx - json is not defined

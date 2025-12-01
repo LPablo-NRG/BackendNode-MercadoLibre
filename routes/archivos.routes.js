@@ -7,7 +7,7 @@ const upload = require("../middlewares/upload.middleware")
 router.get('/', Authorize('Administrador'), archivos.getAll)
 
 //Get api/archivos/5
-router.post('/:id', archivos.get)
+router.get('/:id', archivos.get)
 
 //GET api/archivos/5/detalle
 router.get('/:id/detalle', Authorize('Administrador'), archivos.getDetalle)
