@@ -4,14 +4,23 @@ const {
 } = require('sequelize');
 module.exports = (sequelize, DataTypes) => {
   class producto extends Model {
-    /**
-     * Helper method for defining associations.
-     * This method is not a part of Sequelize lifecycle.
-     * The `models/index` file will call this method automatically.
-     */
     static associate(models) {
-      producto.belongsToMany(models.categoria, { as: 'categorias', through: 'categoriaproducto', foreignKey: 'productoid' });
+      // 1. Relación con Categorías (Original) - OJO: aquí NO va 'idcarrito'
+      producto.belongsToMany(models.categoria, { 
+          as: 'categorias', 
+          through: 'categoriaproducto', 
+          foreignKey: 'productoid' 
+      });
+
+      // 2. Relación con Archivo (Original)
       producto.belongsTo(models.archivo);
+
+      // 3. NUEVA Relación con Carrito (Esta es la que faltaba)
+      producto.belongsToMany(models.carrito, {
+        through: 'productocarrito',
+        foreignKey: 'idproducto', // La llave de este modelo en la tabla intermedia
+        otherKey: 'idcarrito'     // La llave del otro modelo
+      });
     }
   }
   producto.init({

@@ -118,3 +118,15 @@ Mon Dec 01 2025 02:34:10 GMT-0600 (hora estándar central)- 500 - ::1 - gvera@uv
 Mon Dec 01 2025 02:36:52 GMT-0600 (hora estándar central)- 500 - ::1 - gvera@uv.mx - json is not defined
 Mon Dec 01 2025 02:47:43 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo - jwt expired
 Mon Dec 01 2025 02:48:11 GMT-0600 (hora estándar central)- 500 - ::1 - gvera@uv.mx - json is not defined
+Mon Dec 01 2025 18:32:07 GMT-0600 (hora estándar central)- 500 - ::1 - axel.lu04@gmail.com - Unknown column 'itemsCarrito.productoId' in 'field list'
+Mon Dec 01 2025 18:48:33 GMT-0600 (hora estándar central)- 500 - ::1 - axel.lu04@gmail.com - Unknown column 'itemsCarrito.productoId' in 'field list'
+Mon Dec 01 2025 18:48:37 GMT-0600 (hora estándar central)- 500 - ::1 - axel.lu04@gmail.com - Unknown column 'itemsCarrito.productoId' in 'field list'
+Mon Dec 01 2025 18:52:59 GMT-0600 (hora estándar central)- 500 - ::1 - axel.lu04@gmail.com - Unknown column 'itemsCarrito.productoId' in 'field list'
+Mon Dec 01 2025 18:53:06 GMT-0600 (hora estándar central)- 500 - ::1 - axel.lu04@gmail.com - Unknown column 'itemsCarrito.productoId' in 'field list'
+Mon Dec 01 2025 18:53:37 GMT-0600 (hora estándar central)- 500 - ::1 - axel.lu04@gmail.com - Unknown column 'itemsCarrito.productoId' in 'field list'
+Mon Dec 01 2025 18:53:49 GMT-0600 (hora estándar central)- 500 - ::1 - axel.lu04@gmail.com - Unknown column 'itemsCarrito.productoId' in 'field list'
+Mon Dec 01 2025 19:03:39 GMT-0600 (hora estándar central)- 500 - ::1 - axel.lu04@gmail.com - Unknown column 'itemsCarrito.productoId' in 'field list'
+Mon Dec 01 2025 19:03:46 GMT-0600 (hora estándar central)- 500 - ::1 - axel.lu04@gmail.com - Unknown column 'itemsCarrito.productoId' in 'field list'
+Mon Dec 01 2025 19:05:18 GMT-0600 (hora estándar central)- 500 - ::1 - axel.lu04@gmail.com - Unknown column 'itemsCarrito.productoId' in 'field list'
+Mon Dec 01 2025 19:14:31 GMT-0600 (hora estándar central)- 500 - ::1 - axel.lu04@gmail.com - Unknown column 'itemsCarrito.productoId' in 'field list'
+Mon Dec 01 2025 19:52:44 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo - jwt expired
