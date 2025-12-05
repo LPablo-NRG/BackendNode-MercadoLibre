@@ -9,7 +9,7 @@ router.post('/registro', usuarios.create)
 router.get('/', Authorize('Administrador'), usuarios.getAll)
 
 //Get api/usuarios/email
-router.post('/:email', Authorize('Administrador'), usuarios.get)
+router.get('/:email', Authorize('Administrador'), usuarios.get)
 
 //POST api/usuarios
 router.post('/', Authorize('Administrador'), usuarios.create)
