@@ -134,3 +134,6 @@ Thu Dec 04 2025 22:03:41 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo
 Thu Dec 04 2025 23:14:06 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
 Sat Dec 06 2025 13:26:57 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - err.array is not a function
 Sat Dec 06 2025 13:27:30 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - err.array is not a function
+Sat Dec 06 2025 15:50:25 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo - jwt expired
+Sat Dec 06 2025 15:50:37 GMT-0600 (hora estándar central)- 500 - ::1 - barragansaul26n@gmail.com - Field 'fechacompra' doesn't have a default value
+Sat Dec 06 2025 15:52:10 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo - jwt expired

@@ -65,7 +65,7 @@ router.post('/',
             .isEmail().withMessage('Debe ser un formato de correo válido')
             .normalizeEmail()
             .custom(async (value) => {
-                const usuarioExistente = await Usuario.findOne({
+                const usuarioExistente = await usuario.findOne({
                     where: { email: value}
                 });
 
@@ -98,17 +98,7 @@ router.put('/:email',
         body('email')
             .exists().withMessage('El email es obligatorio')
             .isEmail().withMessage('Debe ser un formato de correo válido')
-            .normalizeEmail()
-            .custom(async (value) => {
-                const usuarioExistente = await Usuario.findOne({
-                    where: { email: value}
-                });
-
-                if (usuarioExistente)
-                    throw new Error('El correo electrónico ya está en uso')
-
-                return true;
-            }),
+            .normalizeEmail(),
         body('rol')
             .exists().withMessage('El rol es obligatorio')
             .notEmpty().withMessage('Debes seleccionar un rol')
