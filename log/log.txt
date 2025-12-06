@@ -132,3 +132,5 @@ Mon Dec 01 2025 19:14:31 GMT-0600 (hora estándar central)- 500 - ::1 - axel.lu0
 Mon Dec 01 2025 19:52:44 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo - jwt expired
 Thu Dec 04 2025 22:03:41 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo - jwt expired
 Thu Dec 04 2025 23:14:06 GMT-0600 (hora estándar central)- 401 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sat Dec 06 2025 13:26:57 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - err.array is not a function
+Sat Dec 06 2025 13:27:30 GMT-0600 (hora estándar central)- 500 - ::1 - Anónimo - err.array is not a function
