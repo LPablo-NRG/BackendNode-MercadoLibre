@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  api-mercado:
+    build: .
+    container_name: mercado-api
+    restart: always
+    ports:
+      - "3000:3000"
+    environment:
+      #Aqui vamos a cambiar de acuerdo a la ip de la compu donde tengamos la BD
+      - DB_HOST=host.docker.internal
+
+      - DB_DATABASE=mercadolibrenode
+      - DB_USER=mercadolibre_user
+      - DB_PASSWORD=M3rc@d0
+      - DB_PORT=3306
+      - SERVER_PORT=3000
+      - JWT_SECRET=11885fc9324e6c093304a165c2be3dd386993b8c95253db85f4a7536ad3a8f2910c97e
+      - FILES_IN_DB=false
+    
+    volumes:
+      - ./uploads:/app/uploads
